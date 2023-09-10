@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **-**
 
-- 💬 Ask me about **reactjs, vuejs, javascript, typescript, tailwind, Vuex, Pinia, CSS**
+- 💬 Ask me about **reactjs, vuejs, javascript, typescript, tailwind**
 
 - 📫 How to reach me **shailesh.kumar@prodo.in**
 
@@ -40,6 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailesh-prodo&show_icons=true&locale=en" alt="shailesh-prodo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh-prodo&" alt="shailesh-prodo" /></p>
-
-<a href="https://app.daily.dev/Shaileshkr"><img src="https://api.daily.dev/devcards/039a7fac1e2d4e9f805c49101929d4e5.png?r=wlu" width="400" alt="Shailesh Kumar's Dev Card"/>
-</a>
