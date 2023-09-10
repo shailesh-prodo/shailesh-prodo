@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **-**
 
-- 💬 Ask me about **reactjs, vuejs, javascript, typescript, tailwind**
+- 💬 Ask me about **reactjs, vuejs, javascript, typescript, tailwind, Vuex, Pinia, CSS**
 
-- 📫 How to reach me **kshailesh996@gmail.com**
+- 📫 How to reach me **shailesh.kumar@prodo.in**
 
 - 📄 Know about my experiences [-](-)
 
